@@ -1,0 +1,9 @@
+# Pastas do WhatsApp Web.js
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Node.js
+node_modules/
+
+# Arquivos temporários
+*.log
